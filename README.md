@@ -1,4 +1,4 @@
-# Hi, I'm Burak 👋🤵💻
+# Hi, I'm Burak 👋👨🏻‍🎓💻
 
 <img src="https://raw.githubusercontent.com/bkurtulmus/bkurtulmus/master/gh-header-image-cropped.png" alt="banner that says Burak Kurtulmuş - Computer Scientist | AI & Data | Writing the Future alongside a photo of Burak and logo of Burak Kurtulmus">
 I’m Burak Kurtulmuş, a 2024 Computer Science graduate from Sabancı University. I’ve had the privilege to work at leading companies like Microsoft, Beko, TAV Technologies, and Aksis Digital Solutions. I’m passionate about exploring the intersections of technology, AI, and data, with a strong drive to understand the bigger picture and create meaningful, people-centered solutions. On this GitHub page, you'll find a range of projects, from those I worked on as a student to others I've developed in my free time, showcasing my continuous learning and innovation.
