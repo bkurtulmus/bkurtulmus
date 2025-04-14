@@ -6,7 +6,6 @@ I’m Burak Kurtulmuş, a 2024 Computer Science graduate from Sabancı Universit
 
 ## Find me around the web 🌎: <a href="#"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/bkurtulmus/bkurtulmus/master/bkurtulmus-cartoon.png"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;- Sharing insights and updates on <a href="https://www.linkedin.com/in/burakkurtulmus/">LinkedIn</a> 💼<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Writing about tech and more on <a href="https://medium.com/@bkurtulmus">Medium</a> ✍️<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Explore my detailed projects, CV, and blog posts on <a href="https://bkurtulmusblog.wixsite.com/site">my website</a> 🌐<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Reach out via email at <a href="mailto:kurtulmussburak@gmail.com">kurtulmussburak@gmail.com</a> 📧
 
